@@ -140,10 +140,10 @@
                   </items>
                   <chunks count="2">
                     <chunk name="Attributes">
-                      <items count="5">
+                      <items count="6">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>388</X>
-                          <Y>266</Y>
+                          <X>406</X>
+                          <Y>59</Y>
                           <W>160</W>
                           <H>100</H>
                         </item>
@@ -151,9 +151,10 @@
                         <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
                         <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>388.66666</X>
-                          <Y>266</Y>
+                          <X>406.66666</X>
+                          <Y>59.33333</Y>
                         </item>
+                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
                       </items>
                     </chunk>
                     <chunk name="PanelProperties">
