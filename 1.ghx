@@ -49,8 +49,8 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>10</X>
-                  <Y>10</Y>
+                  <X>31</X>
+                  <Y>127</Y>
                 </item>
                 <item name="Zoom" type_name="gh_single" type_code="5">1.5</item>
               </items>
@@ -142,8 +142,8 @@
                     <chunk name="Attributes">
                       <items count="5">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>360</X>
-                          <Y>94</Y>
+                          <X>388</X>
+                          <Y>266</Y>
                           <W>160</W>
                           <H>100</H>
                         </item>
@@ -151,8 +151,8 @@
                         <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
                         <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>360</X>
-                          <Y>94.66667</Y>
+                          <X>388.66666</X>
+                          <Y>266</Y>
                         </item>
                       </items>
                     </chunk>
