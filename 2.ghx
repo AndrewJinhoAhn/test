@@ -10,7 +10,7 @@
       <Revision>2</Revision>
     </item>
   </items>
-  <chunks count="1">
+  <chunks count="2">
     <chunk name="Definition">
       <items count="1">
         <item name="plugin_version" type_name="gh_version" type_code="80">
@@ -142,6 +142,13 @@
           </chunks>
         </chunk>
       </chunks>
+    </chunk>
+    <chunk name="Thumbnail">
+      <items count="1">
+        <item name="Thumbnail" type_name="gh_drawing_bitmap" type_code="37">
+          <bitmap length="1597">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</bitmap>
+        </item>
+      </items>
     </chunk>
   </chunks>
 </Archive>
