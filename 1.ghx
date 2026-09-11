@@ -38,7 +38,7 @@
             <item name="Date" type_name="gh_date" type_code="8">639247356004708308</item>
             <item name="Description" type_name="gh_string" type_code="10"></item>
             <item name="KeepOpen" type_name="gh_bool" type_code="1">false</item>
-            <item name="Name" type_name="gh_string" type_code="10"></item>
+            <item name="Name" type_name="gh_string" type_code="10">1a28400eed7945219abaaba4ef8c2504.ghx</item>
           </items>
           <chunks count="3">
             <chunk name="Revisions">
@@ -106,14 +106,14 @@
                     <chunk name="Attributes">
                       <items count="2">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>250</X>
-                          <Y>209</Y>
+                          <X>275</X>
+                          <Y>306</Y>
                           <W>50</W>
                           <H>24</H>
                         </item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>275.33334</X>
-                          <Y>221.33334</Y>
+                          <X>300.6667</X>
+                          <Y>318.6667</Y>
                         </item>
                       </items>
                     </chunk>
@@ -140,7 +140,7 @@
                   </items>
                   <chunks count="2">
                     <chunk name="Attributes">
-                      <items count="6">
+                      <items count="5">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                           <X>406</X>
                           <Y>59</Y>
@@ -154,7 +154,6 @@
                           <X>406.66666</X>
                           <Y>59.33333</Y>
                         </item>
-                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
                       </items>
                     </chunk>
                     <chunk name="PanelProperties">
