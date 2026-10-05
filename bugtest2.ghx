@@ -38,7 +38,7 @@
             <item name="Date" type_name="gh_date" type_code="8">639168081991406085</item>
             <item name="Description" type_name="gh_string" type_code="10"></item>
             <item name="KeepOpen" type_name="gh_bool" type_code="1">false</item>
-            <item name="Name" type_name="gh_string" type_code="10">WaffleStructure.gh</item>
+            <item name="Name" type_name="gh_string" type_code="10">476914fc98904a28900a0533d23d5f84.ghx</item>
           </items>
           <chunks count="3">
             <chunk name="Revisions">
@@ -49,10 +49,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>-150</X>
-                  <Y>33</Y>
+                  <X>-665</X>
+                  <Y>-210</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">0.28952137</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">0.3474258</item>
               </items>
             </chunk>
             <chunk name="Views">
@@ -662,14 +662,13 @@
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="8">
+                  <items count="7">
                     <item name="Border" type_name="gh_int32" type_code="3">1</item>
                     <item name="Colour" type_name="gh_drawing_color" type_code="36">
                       <ARGB>0;100;150;75</ARGB>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
-                    <item name="ID" index="0" type_name="gh_guid" type_code="9">2082360b-c3b8-4249-a1aa-437c8a603fb1</item>
-                    <item name="ID_Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="ID_Count" type_name="gh_int32" type_code="3">0</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">5070c9b0-04d2-456d-9695-b59905370ab7</item>
                     <item name="Name" type_name="gh_string" type_code="10">Group</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Volume</item>
@@ -2547,14 +2546,13 @@
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="8">
+                  <items count="7">
                     <item name="Border" type_name="gh_int32" type_code="3">1</item>
                     <item name="Colour" type_name="gh_drawing_color" type_code="36">
                       <ARGB>0;100;150;75</ARGB>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
-                    <item name="ID" index="0" type_name="gh_guid" type_code="9">97086f7e-f6f6-432b-a1a8-a574a2538ff3</item>
-                    <item name="ID_Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="ID_Count" type_name="gh_int32" type_code="3">0</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">4a3bf914-2454-435a-bfe9-953d36b004af</item>
                     <item name="Name" type_name="gh_string" type_code="10">Group</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Length</item>
@@ -2572,14 +2570,13 @@
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="8">
+                  <items count="7">
                     <item name="Border" type_name="gh_int32" type_code="3">1</item>
                     <item name="Colour" type_name="gh_drawing_color" type_code="36">
                       <ARGB>0;100;150;75</ARGB>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
-                    <item name="ID" index="0" type_name="gh_guid" type_code="9">f51fe11f-1a1f-44f4-9e0a-3fc39d722a44</item>
-                    <item name="ID_Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="ID_Count" type_name="gh_int32" type_code="3">0</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">d8b2142a-056e-41af-9a86-c90ca0b3467f</item>
                     <item name="Name" type_name="gh_string" type_code="10">Group</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Relay</item>
@@ -4590,14 +4587,13 @@
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="8">
+                  <items count="7">
                     <item name="Border" type_name="gh_int32" type_code="3">1</item>
                     <item name="Colour" type_name="gh_drawing_color" type_code="36">
                       <ARGB>0;100;150;75</ARGB>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
-                    <item name="ID" index="0" type_name="gh_guid" type_code="9">bc0d23ea-c9e2-45af-9786-f9d921103729</item>
-                    <item name="ID_Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="ID_Count" type_name="gh_int32" type_code="3">0</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">7bf81efd-8c97-409e-a264-51d4e3dc4a20</item>
                     <item name="Name" type_name="gh_string" type_code="10">Group</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Relay</item>
@@ -8256,10 +8252,10 @@
                     <chunk name="ScriptEditor">
                       <items count="1">
                         <item name="StartBounds" type_name="gh_drawing_rectangle" type_code="34">
-                          <X>1014</X>
-                          <Y>734</Y>
+                          <X>777</X>
+                          <Y>677</Y>
                           <W>1626</W>
-                          <H>648</H>
+                          <H>698</H>
                         </item>
                       </items>
                     </chunk>
